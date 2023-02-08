@@ -1,3 +1,4 @@
+<!--单文件组件浏览器无法解析-->
 <script setup>
 import { ref } from 'vue'
 
